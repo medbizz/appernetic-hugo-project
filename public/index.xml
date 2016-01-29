@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Agency Theme</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Hugo Agency Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2015 05:24:24 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/ny/</link>
+      <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/ny/</guid>
+      <description>&lt;p&gt;#Test
+Lite bröd text.&lt;/p&gt;
+
+&lt;p&gt;En bild
+![Bild beskriving][1]&lt;/p&gt;
+
+&lt;p&gt;[1]: /images/Waste_type_wallpaper.jpg&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/firstpost/</link>
+      <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/firstpost/</guid>
+      <description>
+
+&lt;h1 id=&#34;rubrik:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Rubrik&lt;/h1&gt;
+
+&lt;p&gt;Text&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
+* Daniel Pass &lt;a href=&#34;mailto:daniel.antony.pass@googlemail.com&#34;&gt;daniel.antony.pass@googlemail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;kieran-moore:f779394c000b834c435e35a4c53a5ecd&#34;&gt;* Kieran Moore&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kermit the Frog&lt;/li&gt;
+&lt;li&gt;Miss Piggy
+&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; upstream/unmergeable-branch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En lite bild!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/IMG_4729.JPG&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>http://replace-this-with-your-hugo-site.com/home/</link>
+      <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/home/</guid>
+      <description>
+
+&lt;h1 id=&#34;test:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;tEst&lt;/h1&gt;
+
+&lt;p&gt;Mer text
+fkfkfdlk d&amp;rsquo;
+d
+ &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/StayGreen_3dv8desk.jpg&#34; alt=&#34;enter image description here&#34; /&gt;
+![enter image description here][2]
+d&lt;/p&gt;
+
+&lt;h2 id=&#34;rbrik:b9bcf8cb73ce4a081a635ad7c0acd9dd&#34;&gt;Rbrik&lt;/h2&gt;
+
+&lt;p&gt;[2]: /images/Waste_type_wallpaper.jpg&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

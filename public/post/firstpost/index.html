@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>firstpost</title>
+
+    
+    <link href="http://replace-this-with-your-hugo-site.com/css/bootstrap-theme.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Arbutus+Slab&family=Cabin:600&family=Source+Code+Pro' rel='stylesheet' type='text/css'>
+    
+    <link href="http://replace-this-with-your-hugo-site.com/css/HPstyles.css" rel="stylesheet">
+    <link href="http://replace-this-with-your-hugo-site.com/css/hugofont.css" rel="stylesheet">
+    <link href="http://replace-this-with-your-hugo-site.com/css/owl.carousel.css" rel="stylesheet">
+    <link href="http://replace-this-with-your-hugo-site.com/css/owl.theme.default.css" rel="stylesheet">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+  </head>
+
+  <body>
+
+
+
+<h1 id="rubrik:f779394c000b834c435e35a4c53a5ecd">Rubrik</h1>
+
+<p>Text</p>
+
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+* Daniel Pass <a href="mailto:daniel.antony.pass@googlemail.com">daniel.antony.pass@googlemail.com</a></p>
+
+<h1 id="kieran-moore:f779394c000b834c435e35a4c53a5ecd">* Kieran Moore</h1>
+
+<ul>
+<li>Kermit the Frog</li>
+<li>Miss Piggy
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; upstream/unmergeable-branch</li>
+</ul>
+
+<p>En lite bild!</p>
+
+<p><img src="/images/IMG_4729.JPG" alt="enter image description here" /></p>
+
+
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <ul class="list-inline">
+            <li><a href="http://twitter.com/spf13" class="icon-twitter icon-2x"></a></li>
+            <li><a href="http://github.com/spf13/hugo" class="icon-octocat icon-2x"></a></li>
+        </ul>
+        <hr>
+        <p>Copyright &copy; Steve Francia 2013&ndash;2014</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+<script src="http://replace-this-with-your-hugo-site.com/js/jquery-2.1.1.min.js"></script>
+<script src="http://replace-this-with-your-hugo-site.com/js/owl.carousel.min.js"></script>
+
+<script>
+$(function() {
+$('a[href*=#]:not([href=#])').click(function() {
+  if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+      || location.hostname == this.hostname) {
+
+    var target = $(this.hash);
+    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+    if (target.length) {
+      $('html,body').animate({
+        scrollTop: target.offset().top
+      }, 1000);
+      return false;
+    }
+  }
+});
+});
+$('.owl-carousel').owlCarousel({
+loop:true,
+margin:10,
+nav:true,
+autoplay:true,
+autoplayHoverPause:true,
+autoplayTimeout:3000,
+responsive:{
+    0:{
+        items:1
+    },
+    1000:{
+        items:3
+    },
+}
+})
+</script>
+
+
+</body>
+
+</html>
+
