@@ -5,7 +5,7 @@ title = "home"
 
 +++
 # tEst
-Nu har vi forkat och klonat ett projekt.
+Nu har vi forkat, klonat ett projekt.
 Mer text
 fkfkfdlk d' 
 d
