@@ -4,16 +4,12 @@ draft = false
 title = "firstpost"
 
 +++
-# Rubrik
+# Rubrik
 Text
 
-<<<<<<< HEAD
+
 * Daniel Pass <daniel.antony.pass@googlemail.com>
 * Kieran Moore
-=======
-* Kermit the Frog
-* Miss Piggy
->>>>>>> upstream/unmergeable-branch
 
 En lite bild!
 
