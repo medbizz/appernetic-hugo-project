@@ -1,41 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Agency Theme</title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
-    <description>Recent content in Posts on Hugo Agency Theme</description>
+    <title>Posts on my new web site</title>
+    <link>%22/%22/post/</link>
+    <description>Recent content in Posts on my new web site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     <lastBuildDate>Thu, 24 Dec 2015 05:24:24 +0100</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="%22/%22/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>firstpost</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/firstpost/</link>
+      <link>%22/%22/post/firstpost/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/firstpost/</guid>
-      <description>
-
-&lt;h1 id=&#34;rubrik:f779394c000b834c435e35a4c53a5ecd&#34;&gt;Rubrik&lt;/h1&gt;
-
-&lt;p&gt;Text&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&amp;lt; HEAD
-* Daniel Pass &lt;a href=&#34;mailto:daniel.antony.pass@googlemail.com&#34;&gt;daniel.antony.pass@googlemail.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;kieran-moore:f779394c000b834c435e35a4c53a5ecd&#34;&gt;* Kieran Moore&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kermit the Frog&lt;/li&gt;
-&lt;li&gt;Miss Piggy
-&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt; upstream/unmergeable-branch&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En lite bild!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/IMG_4729.JPG&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-</description>
+      <guid>%22/%22/post/firstpost/</guid>
+      <description>Rubrik Text
+ Daniel Pass daniel.antony.pass@googlemail.com Kieran Moore  En lite bild!</description>
     </item>
     
   </channel>
