@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>my new web site</title>
+    <title>My blog</title>
     <link>%22/%22/</link>
-    <description>Recent content on my new web site</description>
+    <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2016 Copyright my blog</copyright>
     <lastBuildDate>Thu, 24 Dec 2015 05:24:24 +0100</lastBuildDate>
     
 	<atom:link href="%22/%22/index.xml" rel="self" type="application/rss+xml" />
@@ -15,17 +18,17 @@
       <title>about</title>
       <link>%22/%22/ny/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
-      
+      <author>yourname@example.com (yourname)</author>
       <guid>%22/%22/ny/</guid>
       <description>#Test Lite bröd text. dfdfd En bild </description>
     </item>
     
     <item>
       <title>firstpost</title>
-      <link>%22/%22/post/firstpost/</link>
+      <link>%22/%22/2015/12/24/firstpost/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
-      
-      <guid>%22/%22/post/firstpost/</guid>
+      <author>yourname@example.com (yourname)</author>
+      <guid>%22/%22/2015/12/24/firstpost/</guid>
       <description>Rubrik Text
  Daniel Pass daniel.antony.pass@googlemail.com Kieran Moore  En lite bild!</description>
     </item>
@@ -34,7 +37,7 @@
       <title>home</title>
       <link>%22/%22/home/</link>
       <pubDate>Thu, 24 Dec 2015 05:24:24 +0100</pubDate>
-      
+      <author>yourname@example.com (yourname)</author>
       <guid>%22/%22/home/</guid>
       <description> tEst Nu har vi forkat, klonat ett projekt. Mer text fkfkfdlk d&amp;rsquo; d d
 Rbrik </description>
