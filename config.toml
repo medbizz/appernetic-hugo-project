@@ -49,7 +49,7 @@ email = "yourname@example.com"
 
 [params.popover]
 # This is a highly configurable popover form.
-enablepopover = true #enable or disable popover: true/false.
+enablepopover = false #enable or disable popover: true/false.
 posturl = "https://zapier.com/hooks/catch/1227563/" # Your zapier post hook.
 headerimage = "//placehold.it/1000x600"
 expirecookie = 5 #show it again after number of days to visitors that has not subscribed.
@@ -140,8 +140,8 @@ extensionmask = []
 [Languages.en]
 languageCode = "en"
 weight = 1
-copyright = "(c) 2016 Copyright my blog"
-title = "My blog" # Site title
+copyright = "(c) 2018 Copyright my company"
+title = "Company" # Site title
 
 [[Languages.en.menu.main]]
 name = "Blog"
@@ -150,18 +150,7 @@ weight = 2
 identifier = "post"
 url = "/post/"
 
-[[Languages.en.menu.main]]
-name = "About"
-weight = 1
-identifier = ""
-url = "https://appernetic.io/app/#/about"
-pre = "<i class='fa fa-road'></i>"
 
-[[Languages.en.menu.main]]
-name = "Dashboard"
-identifier = ""
-weight = 3
-url = "https://appernetic.io/app/"
 
 [[Languages.en.menu.footer]] # add  links to the bottom right corner.
 name = "Disclaimer"
@@ -202,6 +191,4 @@ identifier = "vilkor"
 weight = 2
 url = "/sv/vilkor/"
 
-[Languages.sv.taxonomies]
-tag = "Taggar"
-topic = "Ämne"
+
