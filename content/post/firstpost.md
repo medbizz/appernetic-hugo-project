@@ -1,7 +1,7 @@
 +++
 date = "2015-12-24T05:24:24+01:00"
 draft = false
-title = "firstpost"
+title = "Hugo"
 
 +++
 Hugo is a general-purpose website framework. Technically speaking, Hugo is
