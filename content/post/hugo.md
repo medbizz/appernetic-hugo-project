@@ -10,7 +10,7 @@ every time a visitor requests one, Hugo does the building when you create
 your content. Since websites are viewed far more often than they are
 edited, Hugo is optimized for website viewing while providing a great
 writing experience.
-
+![goHugo][1]
 Sites built with Hugo are  extremely fast and very secure. Hugo sites can
 be hosted anywhere, including [Appernetic][], [Heroku][], [GoDaddy][], [DreamHost][],
 [GitHub Pages][], [Surge][], [Aerobatic][], [Google Cloud Storage][],
@@ -172,3 +172,6 @@ language. I hope you will enjoy using (and contributing to) Hugo as much
 as I have writing it.
 
 [Go language]: http://golang.org/ "The Go Programming Language"
+
+
+  [1]: https://res.cloudinary.com/dfb9ap7il/v1535595384/fxv7suhzovojudsjxbuh
