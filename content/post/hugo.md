@@ -11,7 +11,7 @@ your content. Since websites are viewed far more often than they are
 edited, Hugo is optimized for website viewing while providing a great
 writing experience.
 
-Sites built with Hugo are extremely fast and very secure. Hugo sites can
+Sites built with Hugo are  extremely fast and very secure. Hugo sites can
 be hosted anywhere, including [Appernetic][], [Heroku][], [GoDaddy][], [DreamHost][],
 [GitHub Pages][], [Surge][], [Aerobatic][], [Google Cloud Storage][],
 [Amazon S3][] and [CloudFront][], and work well with CDNs.
